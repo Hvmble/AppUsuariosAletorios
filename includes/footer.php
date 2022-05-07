@@ -3,8 +3,8 @@
   <div class="container">
     <div class="row gy-4">
       <div class="col-lg-5 col-md-12 footer-info">
-        <a href="index.html" class="logo d-flex align-items-center">
-          <img class="img-fluid" width="200px" src="/assets/img/logo_aicoll.png" alt="">
+        <a href="/" class="logo d-flex align-items-center">
+          <img class="img-fluid" width="200px" src="/assets/img/logo_aicoll.png" alt="logo">
         </a>
         <div class="social-links mt-3">
           <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -27,13 +27,13 @@
 </script>
 <!-- Jquery, boostrap, librerias -->
 <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-<script src="assets/vendor/aos/aos.js"></script>
-<script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-<script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-<!-- Js principal -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <!-- Datables js-->
 <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
 <script src="https://cdn.datatables.net/1.11.5/js/dataTables.bootstrap4.min.js"></script>
+<!-- Js principal -->
 <script src="assets/js/main.js"></script>
 <script>
   $(document).ready(function() {

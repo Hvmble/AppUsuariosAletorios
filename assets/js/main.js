@@ -138,7 +138,6 @@
     }
   });
 
-  
 
   /**
    * Animation on scroll
