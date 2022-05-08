@@ -1,5 +1,5 @@
 <!-- ======= FOOTER ======= -->
-<div class="footer-top">
+<footer class="footer-top ">
   <div class="container">
     <div class="row gy-4">
       <div class="col-lg-5 col-md-12 footer-info">
@@ -14,15 +14,17 @@
         </div>
       </div>
     </div>
-  </div>
-</div>
-<div class="container">
-  <div class="credits">
+    <div class="credits">
     Diseñado por <a href="https://www.aicoll.co/#">Aicoll</a>
   </div>
-  <div class="copyright">
+  <div class="copyright mb-2">
     &copy; Copyright <strong><span>Usuarios Aleatorios</span></strong>. All Rights Reserved
   </div>
+  </div>
+  
+</footer>
+
+  
 </div>
 </script>
 <!-- Jquery, boostrap, librerias -->

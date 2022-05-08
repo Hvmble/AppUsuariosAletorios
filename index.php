@@ -34,7 +34,7 @@ require 'config/conexion.php';
           <a class="btn btn-primary text-white" onclick="randomUser()" role="button">Generar Usuarios</a>
         </div>
         <div class="card-body">
-          <div class="table-responsive bg-light">
+          <div class="table table-light">
             <table id="table-usuarios" class="table table-striped">
               <thead>
                 <tr class="text-center">
@@ -45,7 +45,7 @@ require 'config/conexion.php';
                   <th>Telefono</th>
                   <th>Email</th>
                   <th>Ciudad</th>
-                  <th class="w-25 text-center">Accion</th>
+                  <th class="w-5 text-center">Accion</th>
                 </tr>
               </thead>
               <tbody>
